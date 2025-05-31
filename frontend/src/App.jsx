@@ -27,7 +27,7 @@ export default function App() {
   };
 
   const buyTicket = async () => {
-    alert(`Buying ${ticketCount} ticket(s) as ${isVerified ? "verified" : "unverified"} user`);
+    alert(`Buyiing ${ticketCount} ticket(s) as ${isVerified ? "verified" : "unverified"} user`);
     // This will be replaced by contract interaction later
   };
 
